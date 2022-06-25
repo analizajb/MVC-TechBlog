@@ -8,5 +8,23 @@
     "mysql2": "^2.3.3",
     "sequelize": "^6.21.1",
     "sqlite3": "^5.0.8"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "mvc-techblog",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/analizajb/MVC-TechBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/analizajb/MVC-TechBlog/issues"
+  },
+  "homepage": "https://github.com/analizajb/MVC-TechBlog#readme"
 }
