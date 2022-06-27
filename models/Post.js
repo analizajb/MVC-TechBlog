@@ -13,3 +13,5 @@ Post.init(
         sequelize
     }
 )
+
+module.exports = Post;
